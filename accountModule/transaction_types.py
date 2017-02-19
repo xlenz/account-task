@@ -1,0 +1,2 @@
+DEPOSIT = "Deposit"
+WITHDRAW = "Withdraw"
